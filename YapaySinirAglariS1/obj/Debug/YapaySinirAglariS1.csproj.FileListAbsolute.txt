@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\bin\Debug\YapaySinirAglariS1.exe.config
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\bin\Debug\YapaySinirAglariS1.exe
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\bin\Debug\YapaySinirAglariS1.pdb
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.csprojResolveAssemblyReference.cache
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.Form1.resources
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.Properties.Resources.resources
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.csproj.GenerateResource.Cache
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.exe
+C:\Users\burak\documents\visual studio 2015\Projects\YapaySinirAglariS1\YapaySinirAglariS1\obj\Debug\YapaySinirAglariS1.pdb
